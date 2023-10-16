@@ -21,7 +21,7 @@ Before and after the end of the separation of development mode, the front-end an
 
 Note: this project is purely personal fiddle, have nothing to do with them.
 
-## Features screenshots
+## Features screenshot
 
 > The login
 

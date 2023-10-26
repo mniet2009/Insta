@@ -136,4 +136,4 @@ class Upload extends React.Component{
 - [X] Posting
 - [X] collection
 
-> If you have any help to you,, you can order the upper right corner of the Star support thank you very much！ ^_^
+> If you have any help to you, you can order the upper right corner of the Star support thank you very much！ ^_^

@@ -3,7 +3,7 @@
 
 [中文简介](./README_ZH.md)
 
-> Create your own instagram!
+> Create your own instagram!!
 
 > Technology stack
 
